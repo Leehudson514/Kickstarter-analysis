@@ -13,7 +13,9 @@ Performing analysis on Kickstarter data to uncover trends
 
 ## Analysis and Challenges
 ### Analysis of Outcomes based on Launch Date
+* Kickstarters that launched in May and June had the highest successful outcomes.
 ### Analysis of Outcomes based on Goals
+* Campaigns with lower goals of "Less than 1000" and between "1000 to 4999" had a higher percentage of success.
 ### Challenges and Difficulties Encountered
 * The overview of the analysis is well described with screenshots (2 pt).
 * Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered (2 pt).
