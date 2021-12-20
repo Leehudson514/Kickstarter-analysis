@@ -3,23 +3,18 @@ Performing analysis on Kickstarter data to uncover trends
 
 ## Overview of Project
 * Using data provided on Kickstarter Campaigns to complete an analysis that will give further insights into the kickstarter industry.
-
 ### Purpose
-
 * The purpose of this analysis was to determine the relationship between kickstarter campaign launch dates and their funding goals to see what impact they have on overall outcomes.
 * The client needed to know how different campaigns fared in relation to their lunch dates and their funding goals to determine the next steps to take for their Kickstarter.
 
 ## Analysis and Challenges
-
 ### Analysis of Outcomes based on Launch Date
 * Kickstarters that launched in May and June had the highest successful outcomes.
 * Campaigns that start in January and Feburary had the highest chance to fail.
-
 ![goals](Theatre_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes based on Goals
 * Campaigns with lower goals of "Less than 1000" and between "1000 to 4999" had a higher percentage of success.
-
 ![goals](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
@@ -35,8 +30,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Recommendations
 * It would be beneficial for additional tables and graphs focusing on the following:
-  * duration of campagins
-  * comparison of subcategories of theater
-  * comparison of countries
-  
-* Additonally, Collecting more data on failed projects to determine what they have in common.
+  * Duration of campagins, to assist future campagins to determine if they are on track with their goal.
+  * Comparison of subcategories, compare different genres of theatre to see how they stack up against eachother.
+  * Comparison of countries, to determine if there is a difference in campagin outcome with regards to location.
+* Additonally, collecting more data on failed projects to determine what they have in common.
