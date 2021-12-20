@@ -5,8 +5,6 @@ Performing analysis on Kickstarter data to uncover trends
 * Using data provided on Kickstarter Campaigns to complete an analysis that will give further insights into the kickstarter industry.
 
 ### Purpose
-* The purpose and background are well defined (2 pt).
-* Overview of Project: Explain the purpose of this analysis.
 
 * The purpose of this analysis was to determine the relationship between kickstarter campaign launch dates and their funding goals to see what impact they have on overall outcomes.
 * The client needed to know how different campaigns fared in relation to their lunch dates and their funding goals to determine the next steps to take for their Kickstarter.
@@ -25,9 +23,8 @@ Performing analysis on Kickstarter data to uncover trends
 ![goals](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-* The overview of the analysis is well described with screenshots (2 pt).
-* Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered (2 pt).
-* Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
+* Difficulties experienced with with this analysis involved uploading images to Github Read.Me, this was resolved with the help of Google.
+* There were also challenges with the function COUNTIFS() and copying it over to other cells. At first I had to manually change each function to have them make the correct calculation and then realised there was a better a way. I incorpated the use of "$" into my formulas to reduce the amount of information I had to manually input into each cell.
 
 ## Results
 * The results of this analysis show that Kickstarter Campaigns have the highest chances of success if they start in the months of May and June coupled with having a fundraising goal of below $4999.
@@ -38,13 +35,8 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Recommendations
 * It would be beneficial for additional tables and graphs focusing on the following:
-  * duration of campagins, comparison of subcategories of theater, comparison of countries.
-* Collect more data on failed projects to determine what they have in common?
-
-* Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).
-* One conclusion is made about the Outcomes based on Goals (2 pt).
-* There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs (2 pt).
-* What are two conclusions you can draw about the Theater Outcomes by Launch Date?
-* What can you conclude about the Outcomes based on Goals?
-* What are some limitations of this dataset?
-* What are some other possible tables and/or graphs that we could create?
+  * duration of campagins
+  * comparison of subcategories of theater
+  * comparison of countries
+  
+* Additonally, Collecting more data on failed projects to determine what they have in common.
