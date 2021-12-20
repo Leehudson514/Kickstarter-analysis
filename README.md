@@ -33,11 +33,12 @@ Performing analysis on Kickstarter data to uncover trends
 * The results of this analysis show that Kickstarter Campaigns have the highest chances of success if they start in the months of May and June coupled with having a fundraising goal of below $4999.
 
 ### Limitations
-* Some limitations to this analysis is that the dataset is from 2017.
+* Dataset is from 2017, need more recent data for it to be relevant to 2021.
 * Data heavily weighted with projects that had goals of $14999 or less, making up a total of 92% of total projects. More campagins need to be conducted with a goal of $15000 and more to be able to accurately determine that kickstarters with goals of $4999 are more likely to succeed.
 
 ### Recommendations
-* Recommendation for additional tables and graphs focusing on duration, comparison of sub categories of theater genre, comparison of geographical location, 
+* It would be beneficial for additional tables and graphs focusing on the following:
+**   duration of campagins, comparison of subcategories of theater, comparison of countries.
 * Collect more data on failed projects to determine what they have in common?
 
 * Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).
