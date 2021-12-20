@@ -38,7 +38,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Recommendations
 * It would be beneficial for additional tables and graphs focusing on the following:
-**   duration of campagins, comparison of subcategories of theater, comparison of countries.
+  * duration of campagins, comparison of subcategories of theater, comparison of countries.
 * Collect more data on failed projects to determine what they have in common?
 
 * Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).
