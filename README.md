@@ -21,6 +21,7 @@ Performing analysis on Kickstarter data to uncover trends
 * Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered (2 pt).
 * Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 
+* Data from 2017, not relevant for 2021
 
 ## Results
 * Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).
