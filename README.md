@@ -38,6 +38,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Recommendations
 * Recommendation for additional tables and graphs focusing on duration, comparison of sub categories of theater genre, comparison of geographical location, 
+* Collect more data on failed projects to determine what they have in common?
 
 * Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).
 * One conclusion is made about the Outcomes based on Goals (2 pt).
