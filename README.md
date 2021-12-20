@@ -16,12 +16,12 @@ Performing analysis on Kickstarter data to uncover trends
 ### Analysis of Outcomes based on Launch Date
 * Kickstarters that launched in May and June had the highest successful outcomes.
 * 
-![goals].(Theatre_Outcomes_vs_Launch.png)
+![goals](Theatre_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes based on Goals
 * Campaigns with lower goals of "Less than 1000" and between "1000 to 4999" had a higher percentage of success.
 
-![goals].(Outcomes_vs_Goals.png)
+![goals](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 * The overview of the analysis is well described with screenshots (2 pt).
